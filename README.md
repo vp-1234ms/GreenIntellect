@@ -1,5 +1,8 @@
 # GREENINTELLECT - AI-Based Plant Disease Identification and Prediction System 🌱🔬🤖
 
+![d](https://github.com/vp-1234ms/GreenIntellect/assets/102847008/c2b2b8a1-0f8b-484a-afd7-8d86bb83a728)
+
+
 ## Introduction
 
 In the realm of precision agriculture and environmental sustainability, GREENINTELLECT aims to revolutionize crop health monitoring and management. Our project seamlessly integrates hardware and software solutions, utilizing the power of AI and machine learning for comprehensive disease detection, predictive analytics, and community engagement.
