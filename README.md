@@ -71,6 +71,8 @@ Farmers face delayed disease detection, inefficient resource use, and inadequate
 - Upload plant images for immediate disease identification, symptoms, and recommended treatments.
 - Receive comprehensive environmental data for optimized crop management.
 
+![b](https://github.com/vp-1234ms/GreenIntellect/assets/102847008/c65c8481-92b2-45d7-8d26-906b27773465)
+
 ## Business Model
 
 - **Free Version:**
