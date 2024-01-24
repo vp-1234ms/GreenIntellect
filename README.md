@@ -36,6 +36,8 @@ In the realm of precision agriculture and environmental sustainability, GREENINT
    - Data-driven decision-making for informed choices.
    - Promoting environmental sustainability in agriculture.
 
+![th](https://github.com/vp-1234ms/GreenIntellect/assets/102847008/98823f67-0f6f-482d-be6b-3b57a37cd66a)
+
 ## Team Information
 
 - **Team Name:** AI MASTERS
