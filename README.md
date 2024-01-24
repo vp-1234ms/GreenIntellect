@@ -7,6 +7,9 @@
 
 In the realm of precision agriculture and environmental sustainability, GREENINTELLECT aims to revolutionize crop health monitoring and management. Our project seamlessly integrates hardware and software solutions, utilizing the power of AI and machine learning for comprehensive disease detection, predictive analytics, and community engagement.
 
+![sd](https://github.com/vp-1234ms/GreenIntellect/assets/102847008/a4558829-a592-4c62-b41e-1b39579ab80f)
+
+
 ## Key Features
 
 1. **Hardware and Software Integration**
